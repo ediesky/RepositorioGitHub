@@ -1,0 +1,8 @@
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\bin\Debug\data.xml
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\bin\Debug\predictorTest.dll
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\bin\Debug\predictorTest.pdb
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\bin\Debug\predictor.dll
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\bin\Debug\predictor.pdb
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\obj\Debug\predictorTest.csprojResolveAssemblyReference.cache
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\obj\Debug\predictorTest.dll
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictorTest\obj\Debug\predictorTest.pdb

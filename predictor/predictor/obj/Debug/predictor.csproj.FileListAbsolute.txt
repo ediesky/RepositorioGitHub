@@ -1,0 +1,6 @@
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\bin\Debug\data.xml
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\bin\Debug\predictor.dll
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\bin\Debug\predictor.pdb
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.csprojResolveAssemblyReference.cache
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.dll
+c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.pdb
