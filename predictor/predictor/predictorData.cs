@@ -36,13 +36,15 @@ namespace predictor
         picoItem picos;
         placaItem placas;
         placaItem exceptions;
-        public predictorItem(int dayNumber, string day, picoItem picos, placaItem placas, placaItem exceptions)
+        streetItem streets;
+        public predictorItem(int dayNumber, string day, picoItem picos, placaItem placas, placaItem exceptions, streetItem streets)
         {
             this.dayNumber = dayNumber;
             this.day = day;
             this.picos = picos;
             this.placas = placas;
             this.exceptions = exceptions;
+            this.streets = streets;
         }
         public int getDayNumber 
         {
@@ -86,6 +88,17 @@ namespace predictor
             set
             {
                 this.placas = value;
+            }
+        }
+        public streetItem getStreets
+        {
+            get
+            {
+                return this.streets;
+            }
+            set
+            {
+                this.streets = value;
             }
         }
         public placaItem getExceptions
@@ -242,6 +255,30 @@ namespace predictor
             else return false;
         }
 
+
+    }
+    public class streetItem
+    {
+        List<string> streets;
+        public streetItem()
+        {
+            streets = new List<string>();
+        }
+        public streetItem(List<string> streets)
+        {
+            this.streets = streets;
+        }
+        public List<string> getStreets
+        {
+            get
+            {
+                return this.streets;
+            }
+        }
+        public void addStreet(string street)
+        {
+            streets.Add(street);
+        }
 
     }
     

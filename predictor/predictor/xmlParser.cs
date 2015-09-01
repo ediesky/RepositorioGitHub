@@ -51,7 +51,16 @@ namespace predictor
                     exceptions.addType(type);
                 }
 
-                predictorItem item = new predictorItem(dayNumber,day,pico,placa,exceptions);
+                streetItem streets = new streetItem();
+                XmlNode streetListNode = node.SelectSingleNode("street");
+                XmlNodeList streetsNodeList = streetListNode.SelectNodes("streetName");
+                foreach (XmlNode nodeStreet in streetsNodeList)
+                {
+                    string streetName = nodeStreet.InnerText;
+                    streets.addStreet(streetName);
+                }
+
+                predictorItem item = new predictorItem(dayNumber, day, pico, placa, exceptions, streets);
                 dataList.addPredictorItem(item);
             }
             return dataList;

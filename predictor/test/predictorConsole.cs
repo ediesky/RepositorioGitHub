@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using predictor;
 
-namespace test
+namespace testPredictorConsole
 {
-    class Program
+    class predictorConsole
     {
         static void Main(string[] args)
         {
-            string result = predictorLibrary.predictProcedure("GHB-7891","08/31/2015","10:00").ToString();
+            string result = predictorLibrary.availableStreet("RTY-9551", "08/31/2015", "09:00");
             Console.WriteLine(result);
             Console.ReadLine();
         }

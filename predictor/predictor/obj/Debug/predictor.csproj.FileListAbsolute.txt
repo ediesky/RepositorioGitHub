@@ -4,3 +4,15 @@ c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\bin\
 c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.csprojResolveAssemblyReference.cache
 c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.dll
 c:\users\yudeisis\documents\visual studio 2013\Projects\predictor\predictor\obj\Debug\predictor.pdb
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\obj\Debug\predictor.csprojResolveAssemblyReference.cache
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\obj\Debug\predictor.dll
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\bin\Debug\data.xml
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\bin\Debug\predictor.dll
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\bin\Debug\predictor.pdb
+D:\Documentos Ediesky\bibliografia\trabajo predictor\trabajo predictor\predictor\predictor\obj\Debug\predictor.pdb
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\bin\Debug\data.xml
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\bin\Debug\predictor.dll
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\bin\Debug\predictor.pdb
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\obj\Debug\predictor.dll
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\obj\Debug\predictor.pdb
+C:\Users\Yudeisis\Desktop\31 agosto\predictor\predictor\obj\Debug\predictor.csprojResolveAssemblyReference.cache
