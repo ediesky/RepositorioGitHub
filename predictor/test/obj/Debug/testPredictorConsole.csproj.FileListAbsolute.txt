@@ -1,9 +1,0 @@
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\data.xml
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\test.exe.config
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\test.exe
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\test.pdb
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\predictor.dll
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\bin\Debug\predictor.pdb
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\obj\Debug\testPredictorConsole.csprojResolveAssemblyReference.cache
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\obj\Debug\test.exe
-C:\Users\Yudeisis\Desktop\31 agosto\predictor\test\obj\Debug\test.pdb
