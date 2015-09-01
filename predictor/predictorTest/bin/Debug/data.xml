@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restriction>
+	<detail>
+		<dayNumber>1</dayNumber>
+		<day>lunes</day>
+		<pico>
+			<schedule>
+				<begin>07:00</begin>
+				<end>09:30</end>
+			</schedule>
+			<schedule>
+				<begin>16:00</begin>
+				<end>19:30</end>
+			</schedule>
+		</pico>
+		<placa>
+			<type>1</type>
+			<type>2</type>
+		</placa>
+    <street>
+      <streetName>av. Morán Valverde al sur</streetName>
+      <streetName>la Occidental al oeste</streetName>
+      <streetName>av. Diego de Vásquez</streetName>
+      <streetName>Galo Plaza al norte</streetName>
+      <streetName>av. Simón Bolívar</streetName>
+    </street>
+		<exception>
+		</exception>
+	</detail>
+	<detail>
+		<dayNumber>2</dayNumber>
+		<day>martes</day>
+		<pico>
+			<schedule>
+				<begin>07:00</begin>
+				<end>09:30</end>
+			</schedule>
+			<schedule>
+				<begin>16:00</begin>
+				<end>19:30</end>
+			</schedule>
+		</pico>
+		<placa>
+			<type>3</type>
+			<type>4</type>
+		</placa>
+    <street>
+      <streetName>av. Morán Valverde al sur</streetName>
+      <streetName>la Occidental al oeste</streetName>
+      <streetName>av. Diego de Vásquez</streetName>
+      <streetName>Galo Plaza al norte</streetName>
+      <streetName>av. Simón Bolívar</streetName>
+    </street>
+		<exception>
+		</exception>
+	</detail>
+	<detail>
+		<dayNumber>3</dayNumber>
+		<day>miercoles</day>
+		<pico>
+			<schedule>
+				<begin>07:00</begin>
+				<end>09:30</end>
+			</schedule>
+			<schedule>
+				<begin>16:00</begin>
+				<end>19:30</end>
+			</schedule>
+		</pico>
+		<placa>
+			<type>5</type>
+			<type>6</type>
+		</placa>
+    <street>
+      <streetName>av. Morán Valverde al sur</streetName>
+      <streetName>la Occidental al oeste</streetName>
+      <streetName>av. Diego de Vásquez</streetName>
+      <streetName>Galo Plaza al norte</streetName>
+      <streetName>av. Simón Bolívar</streetName>
+    </street>
+		<exception>
+		</exception>
+	</detail>
+	<detail>
+		<dayNumber>4</dayNumber>
+		<day>jueves</day>
+		<pico>
+			<schedule>
+				<begin>07:00</begin>
+				<end>09:30</end>
+			</schedule>
+			<schedule>
+				<begin>16:00</begin>
+				<end>19:30</end>
+			</schedule>
+		</pico>
+		<placa>
+			<type>7</type>
+			<type>8</type>
+		</placa>
+    <street>
+      <streetName>av. Morán Valverde al sur</streetName>
+      <streetName>la Occidental al oeste</streetName>
+      <streetName>av. Diego de Vásquez</streetName>
+      <streetName>Galo Plaza al norte</streetName>
+      <streetName>av. Simón Bolívar</streetName>
+    </street>
+		<exception>
+		</exception>
+	</detail>
+	<detail>
+		<dayNumber>5</dayNumber>
+		<day>viernes</day>
+		<pico>
+			<schedule>
+				<begin>07:00</begin>
+				<end>09:30</end>
+			</schedule>
+			<schedule>
+				<begin>16:00</begin>
+				<end>19:30</end>
+			</schedule>
+		</pico>
+		<placa>
+			<type>9</type>
+			<type>0</type>
+		</placa>
+    <street>
+      <streetName>av. Morán Valverde al sur</streetName>
+      <streetName>la Occidental al oeste</streetName>
+      <streetName>av. Diego de Vásquez</streetName>
+      <streetName>Galo Plaza al norte</streetName>
+      <streetName>av. Simón Bolívar</streetName>
+    </street>
+		<exception>
+		</exception>
+	</detail>
+</restriction>
